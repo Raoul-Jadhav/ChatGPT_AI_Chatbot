@@ -41,9 +41,4 @@ How the chunk size is measured
 
 ## Installation
 First we need to create python environment with version higher than 3.8. and install the below libraries. 
-
-!pip install langchain
-!pip install openai
-!pip install PyPDF2
-!pip install faiss-cpu
-!pip install tiktoken
+<img src="Installation.png" alt="">
