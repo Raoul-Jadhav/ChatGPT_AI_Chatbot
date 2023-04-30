@@ -42,3 +42,6 @@ How the chunk size is measured
 ## Installation
 First we need to create python environment with version higher than 3.8. and install the below libraries. 
 <img src="Installation.PNG" alt="">
+
+## Demo
+<img src="Demo.PNG" alt="">
