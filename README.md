@@ -1,1 +1,1 @@
-# ChatGPT_AI_Chatbot
+# AI Chatbot using ChatGPT
